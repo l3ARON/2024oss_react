@@ -13,6 +13,7 @@ function App() {
         <div>
           <p>Edit <code>src/App.js</code> and save to reload.</p>
           <p>20241028 react oss class</p> 
+          <h1>Hello World!</h1>
         </div>
 
         <button onclick="getDataFromJSONFile()">get DATA</button>
