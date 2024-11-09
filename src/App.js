@@ -11,17 +11,21 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         
         <div>
-          <p>Edit <code>src/App.js</code> and save to reload.</p>
-          <p>20241028 react oss class</p> 
+          <p>2024-2 react oss class</p>
+          <div>22100162 김유영 OSS 수업 Assignment 4-2</div>
           <h1>Hello World!</h1>
-        </div>
-
-        <button onclick="getDataFromJSONFile()">get DATA</button>
-        <div id="div_students">
         </div>
 
         <Hello/>
         <Component001/>
+
+        <a
+          className="App-link"
+          href="https://github.com/l3ARON/2024oss_react"
+          target="_blank"
+        >
+          my_git_hub
+        </a>
 
         <a
           className="App-link"
