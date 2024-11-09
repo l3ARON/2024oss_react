@@ -12,13 +12,8 @@ function App() {
         
         <div>
           <p>2024-2 react oss class</p>
-          <div>22100162 김유영 OSS 수업 Assignment 4-2</div>
-          <h1>Hello World!</h1>
+          <h1>22100162 김유영 OSS 수업 Assignment 4-2</h1>
         </div>
-
-        <Hello/>
-        <Component001/>
-
         <a
           className="App-link"
           href="https://github.com/l3ARON/2024oss_react"
@@ -26,16 +21,7 @@ function App() {
         >
           my_git_hub
         </a>
-
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React 
-        </a>
-        click! move to react
+        click! move to github
       </header>
     </div>
   );
